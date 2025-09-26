@@ -1,0 +1,9 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+[fuzz]
+# Control how many test cases fuzz runs
+runs = 1000
+max_shrink_iters = 1000
