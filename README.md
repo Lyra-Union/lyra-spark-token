@@ -51,7 +51,7 @@ A helper contract to determine the owner address based on the current network.
 
 - **Key Functionality**:
   - Sets the owner address based on the current chain ID.
-  - Supports local Anvil, Aurora testnet, and mainnet.
+  - Supports local Anvil, Ethereum testnet, and mainnet.
 
 ### 3. DeploySPARKToken
 
