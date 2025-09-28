@@ -23,9 +23,11 @@ Welcome to the **SparkToken** project! This repository contains the smart contra
 
 The **SparkToken** project is an ERC20 token implementation with custom minting and burning functionality, along with ownership management. The project utilizes **Forge** as the development and testing environment and includes deployment scripts for various networks.
 
-Deployed Contract:
+### Deployed Contract:
 
-Ethereum - 0x859007002d596431CA88596FCbe1972b0DAc47d2
+- Ethereum - 0x859007002d596431CA88596FCbe1972b0DAc47d2
+
+- Hedera - 0x859007002d596431CA88596FCbe1972b0DAc47d2
 
 ## Contracts
 
